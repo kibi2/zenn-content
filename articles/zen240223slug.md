@@ -3,7 +3,7 @@ title: "Zennのslugについて"
 emoji: "📑"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [zenn]
-published: false
+published: true
 ---
 Zennに投稿するときデフォルトのslugではファイル名が無意味なので管理できない。
 
