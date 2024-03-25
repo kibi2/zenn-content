@@ -5,7 +5,8 @@ type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["python", "開発", "ポエム", "Eclipse"]
 published: true
 ---
-| [<< Back](http://localhost:8000/articles/ppb240309blog) | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | [Next >>](https://zenn.dev/ogwk/articles/ppb240325project.md) |
+| [<< Back](http://localhost:8000/articles/ppb240309blog) | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | [Next >>](https://zenn.dev/ogwk/articles/ppb240325project) |
+
 | ---- | ---- | ---- |
 
 -----
@@ -135,5 +136,5 @@ Eclipseの設定からインタープリター（PyDevの下層）を見てみ�
 「プロジェクト作成」「GitHubとの連携」が残りました。今回はここまでとします。続きは次回で、またお会いしましょう。
 
 -----
-| [<< Back](http://localhost:8000/articles/ppb240309blog) | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | [Next >>](https://zenn.dev/ogwk/articles/ppb240325project.md) |
+| [<< Back](http://localhost:8000/articles/ppb240309blog) | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | [Next >>](https://zenn.dev/ogwk/articles/ppb240325project) |
 | ---- | ---- | ---- |
