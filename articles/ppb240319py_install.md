@@ -6,7 +6,6 @@ topics: ["python", "開発", "ポエム", "Eclipse"]
 published: true
 ---
 | [<< Back](http://localhost:8000/articles/ppb240309blog) | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | [Next >>](https://zenn.dev/ogwk/articles/ppb240325project) |
-
 | ---- | ---- | ---- |
 
 -----
