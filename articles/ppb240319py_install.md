@@ -5,7 +5,8 @@ type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["python", "開発", "ポエム", "Eclipse"]
 published: true
 ---
-[前回の記事](https://zenn.dev/ogwk/articles/ppb240309blog)
+| [<< Back](http://localhost:8000/articles/ppb240309blog) | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | [Next >>](https://zenn.dev/ogwk/articles/ppb240325project.md) |
+| ---- | ---- | ---- |
 
 -----
 実況パズルプログラミングの連載第2回目です。 パズルアプリケーションを作成しながら、作成過程で思ったこと、考えたこと、検討したことなどをブログ風に書いていきます。
@@ -129,9 +130,10 @@ Eclipseの設定からインタープリター（PyDevの下層）を見てみ�
 
 結局IDEとしてEclipseを使うのであればPythonとGitのインストールは不要だったのかもしれません。
 
-### 次回に続く
+## 次回に続く
 
 「プロジェクト作成」「GitHubとの連携」が残りました。今回はここまでとします。続きは次回で、またお会いしましょう。
 
 -----
-[前回の記事](https://zenn.dev/ogwk/articles/ppb240309blog)
+| [<< Back](http://localhost:8000/articles/ppb240309blog) | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | [Next >>](https://zenn.dev/ogwk/articles/ppb240325project.md) |
+| ---- | ---- | ---- |
