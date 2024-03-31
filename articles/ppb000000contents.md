@@ -12,7 +12,8 @@ published: true
 -----
 
 - [実況パズルプログラミング連載開始](https://zenn.dev/ogwk/articles/ppb240309blog)
-- [プロジェクト始動～【連載】実況パズルプログラミング](https://zenn.dev/ogwk/articles/ppb240319py_install)
-- [プロジェクト作成～【連載】実況パズルプログラミング](https://zenn.dev/ogwk/articles//ppb240325project)
+- [プロジェクト始動](https://zenn.dev/ogwk/articles/ppb240319py_install)
+- [プロジェクト作成](https://zenn.dev/ogwk/articles//ppb240325project)
+- [GitHubとの連携](https://zenn.dev/ogwk/articles/ppb240330git)
 
 -----

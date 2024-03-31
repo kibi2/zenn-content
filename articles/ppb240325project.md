@@ -5,7 +5,7 @@ type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["python", "開発", "ポエム", "Eclipse"]
 published: true
 ---
-| [<< Back](https://zenn.dev/ogwk/articles/ppb240319py_install) | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | Next >> |
+| [<< Back](https://zenn.dev/ogwk/articles/ppb240319py_install) | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | [Next >>](https://zenn.dev/ogwk/articles/ppb240330git) |
 | ---- | ---- | ---- |
 
 -----
@@ -90,6 +90,6 @@ Python -m プロジェクト名
 「GitHubとの連携」が残りました。今回はここまでとします。続きは次回で、またお会いしましょう。
 
 -----
-| [<< Back](https://zenn.dev/ogwk/articles/ppb240319py_install) | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | Next >> |
+| [<< Back](https://zenn.dev/ogwk/articles/ppb240319py_install) | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | [Next >>](https://zenn.dev/ogwk/articles/ppb240330git) |
 | ---- | ---- | ---- |
 
