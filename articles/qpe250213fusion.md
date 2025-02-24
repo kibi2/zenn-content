@@ -28,7 +28,9 @@ published: true
 - これだけの条件では判断できない。核融合反応などの詳細がわからないと何ともいえない
 - 何のことやらさっぱりわからない
 
-核融合とはなにか知りたい方は「物理Q&A：核融合とはなんですか」（準備中）をみてください。
+核融合とはなにか知りたい方は次の記事をみてください。
+
+https://zenn.dev/ogwk/articles/qpq250218fusion
 
 ![](/images/qpe250213fusion.webp)
 
@@ -76,6 +78,7 @@ published: true
 
 ## 関連記事
 
-- 物理Q&A：核融合とはなんですか（準備中）
 - 物理Q&A：質量欠損とはなんですか（準備中）
 - 物理クイズ：質量は保存しますか（準備中）
+
+https://zenn.dev/ogwk/articles/qpq250218fusion
