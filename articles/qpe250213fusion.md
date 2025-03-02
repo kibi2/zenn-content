@@ -56,7 +56,7 @@ https://zenn.dev/ogwk/articles/qpq250218fusion
 
 私の答えは質量欠損と矛盾するのでは？と考える人は次の記事をみてください
 
-「物理Q&A：質量欠損とはなんですか」（準備中）
+https://zenn.dev/ogwk/articles/qpq250220mass_defect
 
 ## 解説 
 
@@ -78,7 +78,6 @@ https://zenn.dev/ogwk/articles/qpq250218fusion
 
 ## 関連記事
 
-- 物理Q&A：質量欠損とはなんですか（準備中）
-- 物理クイズ：質量は保存しますか（準備中）
-
 https://zenn.dev/ogwk/articles/qpq250218fusion
+https://zenn.dev/ogwk/articles/qpq250220mass_defect
+- 物理クイズ：質量は保存しますか（準備中）
