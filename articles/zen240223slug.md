@@ -9,7 +9,7 @@ Zennに投稿するときデフォルトのslugではファイル名が無意味
 
 なので自前でslugを指定する必要がある。
 
-方法は「[Zennのスラッグ（slug）とは](Zennのスラッグ（slug）とは)」に解説がある。
+方法は「[Zennのスラッグ（slug）とは](https://zenn.dev/zenn/articles/what-is-slug)」に解説がある。
 
 疑問点は
 
