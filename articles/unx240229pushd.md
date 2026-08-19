@@ -1,10 +1,13 @@
 ---
 title: "pushd のディレクトリスタックを共有する"
 emoji: "🌟"
-type: "idea" # tech: 技術記事 / idea: アイデア
-topics: [linux]
+type: "idea"
+topics:
+  - "linux"
 published: true
+published_at: "2024-02-29 13:50"
 ---
+
 Zenn を GitHub と連携し、bash と vim を使って記事を書いています。久しぶりにシェルと vim を使うのでいろいろと思い出して時間がかかります。そう言えば pushd とか使っていたな、とか。.bashrc にこんな感じで書いていました。
 
 ```bash

@@ -1,10 +1,13 @@
 ---
 title: "Zennのslugについて"
 emoji: "📑"
-type: "idea" # tech: 技術記事 / idea: アイデア
-topics: [zenn]
+type: "idea"
+topics:
+  - "zenn"
 published: true
+published_at: "2024-02-23 15:33"
 ---
+
 Zennに投稿するときデフォルトのslugではファイル名が無意味なので管理できない。
 
 なので自前でslugを指定する必要がある。

@@ -1,9 +1,11 @@
 ---
 title: "【物理Q&A】核融合とはなんですか"
 emoji: "💨"
-type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["物理"]
+type: "tech"
+topics:
+  - "物理"
 published: true
+published_at: "2025-02-24 15:22"
 ---
 
 一般の方を対象に核融合について簡単に説明します。

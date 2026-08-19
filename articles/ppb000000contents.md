@@ -1,10 +1,16 @@
 ---
 title: "目次～【連載】実況パズルプログラミング"
 emoji: "🙌"
-type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["python", "開発", "ポエム", "Eclipse"]
+type: "idea"
+topics:
+  - "python"
+  - "ポエム"
+  - "開発"
+  - "eclipse"
 published: true
+published_at: "2024-03-25 16:06"
 ---
+
 実況パズルプログラミングの目次です。
 
 パズルアプリケーションを作成しながら、作成過程で思ったこと、考えたこと、検討したことなどをブログ風に書いていく連載記事です。

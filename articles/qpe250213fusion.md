@@ -1,9 +1,11 @@
 ---
 title: "【物理クイズ】核融合で質量がかわりますか"
 emoji: "😸"
-type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["物理"]
+type: "tech"
+topics:
+  - "物理"
 published: true
+published_at: "2025-02-20 13:10"
 ---
 
 ## 問題 

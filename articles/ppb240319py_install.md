@@ -1,10 +1,16 @@
 ---
 title: "プロジェクト始動～【連載】実況パズルプログラミング"
 emoji: "💨"
-type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["python", "開発", "ポエム", "Eclipse"]
+type: "idea"
+topics:
+  - "python"
+  - "ポエム"
+  - "開発"
+  - "eclipse"
 published: true
+published_at: "2024-03-21 11:38"
 ---
+
 | [<< Back](https://zenn.dev/ogwk/articles/ppb240309blog) | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | [Next >>](https://zenn.dev/ogwk/articles/ppb240325project) |
 | ---- | ---- | ---- |
 

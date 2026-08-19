@@ -1,10 +1,15 @@
 ---
 title: "実況パズルプログラミング連載開始"
 emoji: "🐡"
-type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["python", "開発", "ポエム"]
+type: "idea"
+topics:
+  - "python"
+  - "ポエム"
+  - "開発"
 published: true
+published_at: "2024-03-18 16:23"
 ---
+
 | << Back | [-- Index --](https://zenn.dev/ogwk/articles/ppb000000contents) | [Next >>](https://zenn.dev/ogwk/articles/ppb240319py_install) |
 | ---- | ---- | ---- |
 
