@@ -147,5 +147,5 @@ okozeの最終的な構想は、単一のパズル専用アプリではありま
 
 ---
 
-[過去記事一覧](https://zenn.dev/ogwk/articles/ppb000000contents)
+[記事一覧](https://zenn.dev/ogwk/articles/ppb000000contents)
 
