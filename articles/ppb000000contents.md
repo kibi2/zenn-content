@@ -22,5 +22,6 @@ published_at: "2024-03-25 16:06"
 - [プロジェクト作成](https://zenn.dev/ogwk/articles//ppb240325project)
 - [GitHubとの連携](https://zenn.dev/ogwk/articles/ppb240330git)
 - [連載再開](https://zenn.dev/ogwk/articles/ppb260831restart)
+- [開発環境を決める](https://zenn.dev/ogwk/articles/ppb260905episode-002)
 
 -----
