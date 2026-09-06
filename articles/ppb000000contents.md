@@ -25,3 +25,7 @@ published_at: "2024-03-25 16:06"
 - [開発環境を決める](https://zenn.dev/ogwk/articles/ppb260905episode-002)
 
 -----
+
+- [Live Demo](https://kibi2.github.io/okoze/)
+- [Wiki](https://github.com/kibi2/okoze/wiki)
+- [Source Code](https://github.com/kibi2/okoze)
