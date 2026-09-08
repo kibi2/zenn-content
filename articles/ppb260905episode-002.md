@@ -107,17 +107,17 @@ okozeの開発で一つの段階が完成したら、Gitのtagを付けて、Liv
 
 最初の開発環境をまとめると、次のようになります。
 
-| 目的 | 使用するもの |
+| 目的               | 使用するもの            |
 | ------------------ | ----------------------- |
-| 開発マシン | Mac mini M4 |
-| IDE | Visual Studio Code |
-| ブラウザ | Chromium系ブラウザ |
-| 開発サーバー | Live Server |
+| 開発マシン         | Mac mini M4             |
+| IDE                | Visual Studio Code      |
+| ブラウザ           | Chromium系ブラウザ      |
+| 開発サーバー       | Live Server             |
 | プログラミング言語 | JavaScript → TypeScript |
-| グラフィックス | Canvas API |
-| バージョン管理 | Git / GitHub |
-| Live Demo | GitHub Pages |
-| コーディング支援 | AI |
+| グラフィックス     | Canvas API              |
+| バージョン管理     | Git / GitHub            |
+| Live Demo          | GitHub Pages            |
+| コーディング支援   | AI                      |
 
 まずはこの環境を作って、実際にコードを書いてみます。
 
@@ -127,5 +127,4 @@ okozeの開発で一つの段階が完成したら、Gitのtagを付けて、Liv
 
 ---
 
-[記事一覧](https://zenn.dev/ogwk/articles/ppb000000contents)
-
+https://zenn.dev/ogwk/articles/ppb000000contents
