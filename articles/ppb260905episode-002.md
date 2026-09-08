@@ -8,7 +8,7 @@ topics:
   - "vscode"
   - "github"
   - "ai"
-published: false
+published: true
 ---
 
 前回は、okozeを始めた理由と、このプロジェクトを通して考えてみたいことを書きました。
