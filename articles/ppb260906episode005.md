@@ -1,5 +1,5 @@
 ---
-title: "9x9のマス目を描く-その1"
+title: "9x9のマス目を描く-その1〜【連載】実況パズルプログラミング"
 emoji: "🐕"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics:
