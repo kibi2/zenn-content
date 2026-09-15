@@ -1,12 +1,10 @@
 ---
-title: ""
+title: "rush.nvim — Vimのカーソル移動をもう少し楽にする"
 emoji: "🐈"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: []
 published: false
 ---
-
-# rush.nvim — Vimのカーソル移動をもう少し楽にする
 
 Vim / Neovimを使っていると、カーソル移動について「もう少し何とかならないかな」と思うことがあります。
 
